@@ -1,0 +1,11 @@
+.navbar_background {
+    background-color: #e3f2fd;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.navbar-brand {
+    cursor: pointer;
+}
